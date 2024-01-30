@@ -1,0 +1,5 @@
+telethon
+PyTelegramBotApi
+requests
+bs4
+names
