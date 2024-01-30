@@ -1,1 +1,1 @@
-worker : python tele.py
+worker : python tele_dahmokm.py
